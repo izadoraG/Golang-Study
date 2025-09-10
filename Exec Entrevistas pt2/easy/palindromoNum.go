@@ -18,6 +18,6 @@ func Palindromo(str string) (result bool) {
 }
 
 func main() {
-	str := "racecar"
+	str := "123321"
 	fmt.Println(Palindromo(str))
 }
